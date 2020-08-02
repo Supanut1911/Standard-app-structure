@@ -1,0 +1,224 @@
+/* 
+  Locales.strings
+  Nimble
+
+  Created by Chindanai Peerapattanapaiboon on 22/2/2563 BE.
+  Copyright © 2563 Chindanai Peerapattanapaiboon. All rights reserved.
+*/
+"locale" = "en_US_POSIX";
+
+"OK" = "OK";
+"next" = "Next";
+"Save" = "Save";
+"tasks" = "tasks";
+
+"title.projects" = "Projects";
+"title.mytasks" = "My Tasks";
+"title.profile" = "Profile";
+"title.create-board" = "Create Board";
+"title.notifications" = "Notifications";
+
+"logout-confirmation" = "Are you sure?";
+
+"cancel" = "Cancel";
+"logout" = "Logout";
+"ok" = "OK";
+
+"mr." = "Mr.";
+"ms." = "Ms.";
+"miss" = "Miss";
+
+"high" = "High";
+"medium" = "Medium";
+"low" = "Low";
+
+// MARK: - MyTask
+"sort.task-status" = "Task status";
+"sort.none" = "None";
+
+// MARK: - Task
+
+"task.status" = "Status";
+"task.progress" = "Progress";
+"task.startDate.goal" = "Start Date (Goal)";
+"task.endDate.goal" = "End Date (Goal)";
+"task.startDate.actual" = "Start Date (actual)";
+"task.endDate.actual" = "End Date (actual)";
+"task.jobCreator" = "Job Creator";
+"task.assignees" = "Assignees";
+"task.importance" = "Priority";
+"task.storyPoint" = "Story point";
+"task.sprint" = "Sprint";
+"task.group" = "Work Group";
+"task.workSection" = "Work Section";
+"task.sort" = "Sorting";
+"task.collapse" = "hide";
+"task.expand" = "see more";
+
+"task.linkedIssues" = "Linked issues";
+"task.addLinkedIssues" = "Add link issues";
+"task.subtasks" = "Subtasks";
+"task.addSubtasks" = "Add Task";
+"task.files" = "File";
+"task.addFiles" = "Add file";
+"task.sheet.files" = "Files";
+"task.sheet.video" = "Video";
+"task.sheet.takePhoto" = "Take photo";
+"task.sheet.library" = "Photo library";
+"task.title" = "Title";
+"task.linkIssues-edit" = "Search";
+"task.addSubtasks.placeholder" = "Sub task name";
+"task.linkIssues.empty.placeholder" = "Not found";
+"task.note" = "Note";
+"task.empty.group" = "None Group";
+"task.empty.section" = "None Section";
+"task.backlog" = "Backlog";
+
+"task.linkIssues.delete.title" = "⚠️ Remove the link to";
+"task.linkIssues.delete.message" = "You can add it again later if you need to";
+"task.linkIssues.delete.remove" = "Remove";
+
+"task.copy.title" = "Copy";
+"task.copy.message" = "Task Name\n";
+"task.copy.create" = "Create";
+
+"task.delete.title" = "Confirmation";
+"task.delete.message" = "You cannot retrieve the deleted tasks. Do you really want to delete?";
+
+"task.archive.title" = "Confirmation";
+"task.archive.message" = "Archiving Task will move the task to the Archived menu. ";
+"task.archive.confirm" = "Confirm";
+
+"task.copy.open-task.title" = "The task has been cloned!";
+"task.copy.open-task.open" = "Open task";
+
+"task.detail-edit" = "Detail";
+"task.description.placeholder" = "Add description";
+
+"task.message.progress.done" = "Since the progress is 100%, we will change the status to Done automatically.";
+
+// MARK: - Date picker
+
+"datePicker.reset" = "Reset date";
+"datePicker.save" = "Save";
+
+"datePicker.today" = "Today";
+"datePicker.plusOneDay" = "+1 Day";
+"datePicker.plusOneWeek" = "+1 Week";
+
+// MARK: - More
+
+"more.copy" = "Copy";
+"more.archive" = "Archive";
+"more.delete" = "Delete";
+
+// MARK: - Login
+"login.email" = "Email";
+"login.first-name" = "First Name";
+"login.last-name" = "Last Name";
+"login.password" = "Password";
+
+"signup.prefix" = "Prefix";
+"signup.email" = "Email";
+"signup.first-name" = "First Name";
+"signup.last-name" = "Last Name";
+
+// MARK: - Forgot Password
+"forgot-password.title" = "Forgot Password";
+"forgot-password.alert-title-success" = "Instructions sent";
+"forgot-password.alert-message-success" = "Instructions for resetting your password have been sent to";
+
+// MARK: - Account
+
+"account.personalInformation" = "Personal information";
+"account.email" = "Email";
+"account.nameSurname" = "Name - Surname";
+"account.position" = "Position";
+"account.aboutMe" = "About me";
+"account.settings" = "Settings";
+"account.password" = "Password";
+"account.notifications" = "Notifications";
+"account.settings.nimble" = "About nimble";
+"account.privacyAndTerm" = "Terms and privacy policy";
+"account.version" = "Version";
+
+// MARK: - Edit Account
+
+"title.edit.account" = "Edit profile";
+
+"edit.account.first-name" = "Name";
+"edit.account.last-name" = "Surname";
+"edit.account.position" = "Position";
+"edit.account.aboutMe" = "About me";
+"edit.account.save" = "Save";
+"edit.account.title" = "Title";
+
+"edit.account.takePhoto" = "Take a Photo";
+"edit.account.library" = "Choose a Photo";
+
+// MARK: - Notifications Settings
+
+"title.notifications.settings" = "Notifications";
+
+"notifications.settings.notifySprint" = "Notify when beginning / ending";
+"notifications.settings.notifyTask" = "Notify when editing / changing Task";
+
+// MARK: - Update Password
+
+"title.update.password" = "Password";
+
+"update.password.oldPassword" = "Old Password";
+"update.password.newPassword" = "New Password";
+"update.password.newPasswordConfirm" = "Confirm Password";
+"update.password.save" = "Save";
+"update.password.forgot-password" = "Forgot Password?";
+
+"update.password.warning.leastFive" = "รหัสผ่านใหม่ ต้องมีความยาวอย่างน้อย 5 ตัวอักษร";
+"update.password.warning.notEqual" = "การยืนยันข้อมูลของ ยืนยันรหัสผ่านใหม่ ไม่ตรงกัน";
+
+// MARK: - Assignees Member
+
+"title.assigneesMember" = "Assignees";
+"assigneesMember.header.title" = "Member";
+
+// MARK: - Priority
+
+"title.priority" = "Priority";
+
+// MARK: - Task Info
+
+"title.task.activities" = "Activities";
+"title.task.comments" = "Comments";
+
+"activities.less-than-a-minute" = "less than 1 minute ago";
+"activities.minute-ago" = "minute ago";
+"activities.hour-ago" = "hour ago";
+"activities.send" = "Send";
+
+"comments.placeholder" = "เพิ่มความคิดเห็น...";
+
+// MARK: - Notification
+"Yesterday" = "Yesterday";
+"Today" = "Today";
+"Read all" = "Read all";
+
+// MARK: - Create Task
+"title.create.task" = "Create Task";
+
+"create-task.submit" = "Create";
+"create-task.priority" = "Priority";
+
+"create-task.board" = "Board";
+"create-task.name" = "Task Name";
+"create-task.group" = "Group";
+
+// MARK: - Create Board
+"title.create.board" = "New Board";
+"create-board.create-button" = "Create";
+
+"create-board.name" = "Board name";
+"create-board.description" = "Description (Optional)";
+"create-board.template.basic" = "Basic";
+"create-board.template.weekdays" = "Weekdays";
+"create-board.template.blank" = "Blank";
+"create-board.template" = "Template";
